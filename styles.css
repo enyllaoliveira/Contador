@@ -17,12 +17,12 @@ h1{
 }
 
 #value {
-font-size: 40px;
-font-weight: bold;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 .btn-container {
-margin-top: 30px;
+    margin-top: 30px;
 }
 
 .btn {
